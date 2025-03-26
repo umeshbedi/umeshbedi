@@ -27,7 +27,7 @@ As a **versatile professional**, I specialize in:
 - **Data Analysis & AI**  
 - **Network Administration**  
 - **Graphic Design**  
-- **Problem Solving** (Active contributor on [Stack Overflow](https://stackoverflow.com/users/your-profile))  
+- **Problem Solving** (Active contributor on [Stack Overflow](https://stackoverflow.com/users/19827358/umesh-kumar-bedi)
 
 💡 I am passionate about learning new technologies and delivering impactful solutions. My adaptability and strong problem-solving skills make me a valuable asset in any project.  
 
