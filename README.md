@@ -54,8 +54,6 @@ As a **versatile professional**, I specialize in:
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshbedi&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shre202002&" alt="umeshbedi" /></p>
-
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/umeshkumarbedi/)  
 - 📫 How to reach me **umeshkumarbedi@gmail.com**
